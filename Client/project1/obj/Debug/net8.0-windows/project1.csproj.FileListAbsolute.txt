@@ -1,0 +1,52 @@
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\bin\Debug\net8.0-windows\project1.exe
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\bin\Debug\net8.0-windows\project1.deps.json
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\bin\Debug\net8.0-windows\project1.runtimeconfig.json
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\bin\Debug\net8.0-windows\project1.dll
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\bin\Debug\net8.0-windows\project1.pdb
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.csproj.AssemblyReference.cache
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.CreateRoom.resources
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.Home.resources
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.Lobby.resources
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.Properties.Resources.resources
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.Register.resources
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.RoomForm.resources
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.csproj.GenerateResource.cache
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.AssemblyInfoInputs.cache
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.AssemblyInfo.cs
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.csproj.CoreCompileInputs.cache
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.csproj.CopyComplete
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.dll
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\refint\project1.dll
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.pdb
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\project1.genruntimeconfig.cache
+C:\Users\mahmoudmowiena\Desktop\C# Project\Client\project1\obj\Debug\net8.0-windows\ref\project1.dll
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\bin\Debug\net8.0-windows\project1.exe
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\bin\Debug\net8.0-windows\project1.deps.json
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\bin\Debug\net8.0-windows\project1.runtimeconfig.json
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\bin\Debug\net8.0-windows\project1.dll
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\bin\Debug\net8.0-windows\project1.pdb
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.csproj.AssemblyReference.cache
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.CreateRoom.resources
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.Home.resources
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.Lobby.resources
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.Properties.Resources.resources
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.Register.resources
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.RoomForm.resources
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.csproj.GenerateResource.cache
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.AssemblyInfoInputs.cache
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.AssemblyInfo.cs
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.csproj.CoreCompileInputs.cache
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.csproj.CopyComplete
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.dll
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\refint\project1.dll
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.pdb
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\project1.genruntimeconfig.cache
+C:\Users\mahmoudmowiena\Desktop\CopyOfProject\Client\project1\obj\Debug\net8.0-windows\ref\project1.dll

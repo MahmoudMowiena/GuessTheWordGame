@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wx9cCCQtLWiY4csOSna80358lF2kQ+yFCOtPmx3M0F2NXvozd3gQ7Y1VIq4WLSiBqVhdMUmH6iFGGyX4hrWbLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahmoudmowiena\\Desktop\\Guess The Word\\Client\\project1\\ClientSide_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahmoudmowiena\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\mahmoudmowiena\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\mahmoudmowiena\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
